@@ -1,0 +1,20 @@
+# data lokal (jangan commit)
+data/
+*.csv
+*.parquet
+*.npz
+*.npy
+*.h5
+
+# notebook cache
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
